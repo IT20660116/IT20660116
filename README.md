@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Natkunam Sulaxshayan</h1>
 <div align="center"><img src="https://github.com/IT20660116/IT20660116/blob/main/Banner.png"></div>
-<h3 align="center">A passionate DevOps Engineering from Sri Lanka, E</h3>
-<imge align='right' alt='Coding' Width='400' src='https://github.com/IT20660116/IT20660116/blob/main/techy.gif'>
+<h3 align="center">A passionate DevOps Engineering from Sri Lanka</h3>
+<img align='right' alt='Coding' width='400' src='https://raw.githubusercontent.com/IT20660116/IT20660116/main/techy.gif'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nsulaxshayan&label=Profile%20views&color=0e75b6&style=flat" alt="nsulaxshayan" /> </p>
 
